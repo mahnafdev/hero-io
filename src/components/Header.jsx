@@ -2,7 +2,7 @@ import { Link, NavLink } from "react-router";
 import Logo from "../assets/logo.png";
 import { FaGithub } from "react-icons/fa6";
 
-const Header = () => {
+export const Header = () => {
 	return (
 		<header className="fixed top-0 left-0 w-full">
 			<nav className="w-full px-48 py-4 border-b border-b-[#e9e9eb] flex items-center justify-between gap-x-2">
@@ -61,5 +61,3 @@ const Header = () => {
 		</header>
 	);
 };
-
-export default Header;

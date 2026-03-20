@@ -1,7 +1,7 @@
 import { FaFacebook, FaGithub, FaLinkedin, FaXTwitter, FaYoutube } from "react-icons/fa6";
 import Logo from "../assets/logo.png";
 
-const Footer = () => {
+export const Footer = () => {
 	return (
 		<footer className="mt-24 px-48 py-10 bg-zinc-900 text-white space-y-6">
 			<div className="flex justify-between">
@@ -63,5 +63,3 @@ const Footer = () => {
 		</footer>
 	);
 };
-
-export default Footer;
