@@ -5,13 +5,13 @@ export const Hero = () => {
 	return (
 		<section
 			id="hero"
-			className="pt-8 flex flex-col items-center text-center"
+			className="px-48 pt-8 flex flex-col items-center text-center"
 		>
 			{/* Tagline */}
 			<h1 className="text-6xl font-bold leading-[1.125] mb-4">
 				We Build
 				<br />
-				<span className="gradient-text">Productive</span> Apps
+				<span className="text-gradient">Productive</span> Apps
 			</h1>
 			{/* Subtext */}
 			<p className="text-lg text-zinc-500 max-w-3xl mb-6">

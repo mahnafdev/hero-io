@@ -9,6 +9,10 @@
 	--font-sans: var(--sans);
 }
 
-.gradient-text {
+.text-gradient {
 	@apply bg-linear-to-br from-purple-800 to-purple-400 bg-clip-text text-transparent;
+}
+
+.bg-gradient {
+	@apply bg-linear-to-br from-purple-900 to-purple-400;
 }
