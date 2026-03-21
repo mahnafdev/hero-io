@@ -1,0 +1,342 @@
+[
+	{
+		"image": "/images/apps/taskflow.png",
+		"title": "TaskFlow",
+		"companyName": "Vertex Labs",
+		"id": 1,
+		"description": "A clean productivity app for task planning, reminders, and team collaboration.",
+		"size": 48.5,
+		"reviews": 1284,
+		"downloads": 120000,
+		"ratings": [
+			{ "name": "1 star", "count": 32 },
+			{ "name": "2 star", "count": 41 },
+			{ "name": "3 star", "count": 96 },
+			{ "name": "4 star", "count": 388 },
+			{ "name": "5 star", "count": 727 }
+		]
+	},
+	{
+		"image": "/images/apps/fitpulse.png",
+		"title": "FitPulse",
+		"companyName": "MotionWare",
+		"id": 2,
+		"description": "Track workouts, calories, and body goals with personalized fitness plans.",
+		"size": 72.3,
+		"reviews": 2103,
+		"downloads": 350000,
+		"ratings": [
+			{ "name": "1 star", "count": 54 },
+			{ "name": "2 star", "count": 73 },
+			{ "name": "3 star", "count": 161 },
+			{ "name": "4 star", "count": 682 },
+			{ "name": "5 star", "count": 1133 }
+		]
+	},
+	{
+		"image": "/images/apps/notehive.png",
+		"title": "NoteHive",
+		"companyName": "InkForge",
+		"id": 3,
+		"description": "A fast note-taking app with folders, tags, sync, and markdown support.",
+		"size": 34.8,
+		"reviews": 894,
+		"downloads": 98000,
+		"ratings": [
+			{ "name": "1 star", "count": 18 },
+			{ "name": "2 star", "count": 29 },
+			{ "name": "3 star", "count": 74 },
+			{ "name": "4 star", "count": 275 },
+			{ "name": "5 star", "count": 498 }
+		]
+	},
+	{
+		"image": "/images/apps/travelnest.png",
+		"title": "TravelNest",
+		"companyName": "SkyRoute Tech",
+		"id": 4,
+		"description": "Plan trips, save itineraries, and explore destinations in one place.",
+		"size": 81.2,
+		"reviews": 1670,
+		"downloads": 275000,
+		"ratings": [
+			{ "name": "1 star", "count": 66 },
+			{ "name": "2 star", "count": 80 },
+			{ "name": "3 star", "count": 150 },
+			{ "name": "4 star", "count": 540 },
+			{ "name": "5 star", "count": 834 }
+		]
+	},
+	{
+		"image": "/images/apps/budgetbee.png",
+		"title": "BudgetBee",
+		"companyName": "PennySoft",
+		"id": 5,
+		"description": "Manage personal finance, budgets, and monthly spending with clarity.",
+		"size": 40.6,
+		"reviews": 1432,
+		"downloads": 185000,
+		"ratings": [
+			{ "name": "1 star", "count": 39 },
+			{ "name": "2 star", "count": 55 },
+			{ "name": "3 star", "count": 120 },
+			{ "name": "4 star", "count": 471 },
+			{ "name": "5 star", "count": 747 }
+		]
+	},
+	{
+		"image": "/images/apps/langora.png",
+		"title": "Langora",
+		"companyName": "BrightLingo",
+		"id": 6,
+		"description": "Learn new languages with bite-sized lessons, quizzes, and speaking drills.",
+		"size": 66.1,
+		"reviews": 2568,
+		"downloads": 420000,
+		"ratings": [
+			{ "name": "1 star", "count": 77 },
+			{ "name": "2 star", "count": 101 },
+			{ "name": "3 star", "count": 215 },
+			{ "name": "4 star", "count": 902 },
+			{ "name": "5 star", "count": 1273 }
+		]
+	},
+	{
+		"image": "/images/apps/zenspace.png",
+		"title": "ZenSpace",
+		"companyName": "CalmOrbit",
+		"id": 7,
+		"description": "Meditation, breathing, and sleep sounds for mental wellness.",
+		"size": 58.4,
+		"reviews": 1195,
+		"downloads": 140000,
+		"ratings": [
+			{ "name": "1 star", "count": 25 },
+			{ "name": "2 star", "count": 37 },
+			{ "name": "3 star", "count": 88 },
+			{ "name": "4 star", "count": 391 },
+			{ "name": "5 star", "count": 654 }
+		]
+	},
+	{
+		"image": "/images/apps/codepilot.png",
+		"title": "CodePilot",
+		"companyName": "DevSpark",
+		"id": 8,
+		"description": "Practice coding challenges, track progress, and sharpen developer skills.",
+		"size": 92.7,
+		"reviews": 3016,
+		"downloads": 510000,
+		"ratings": [
+			{ "name": "1 star", "count": 95 },
+			{ "name": "2 star", "count": 127 },
+			{ "name": "3 star", "count": 260 },
+			{ "name": "4 star", "count": 1048 },
+			{ "name": "5 star", "count": 1486 }
+		]
+	},
+	{
+		"image": "/images/apps/chefmate.png",
+		"title": "ChefMate",
+		"companyName": "KitchenCore",
+		"id": 9,
+		"description": "Discover recipes, meal plans, and grocery lists for everyday cooking.",
+		"size": 53.9,
+		"reviews": 976,
+		"downloads": 112000,
+		"ratings": [
+			{ "name": "1 star", "count": 21 },
+			{ "name": "2 star", "count": 35 },
+			{ "name": "3 star", "count": 93 },
+			{ "name": "4 star", "count": 322 },
+			{ "name": "5 star", "count": 505 }
+		]
+	},
+	{
+		"image": "/images/apps/pixora.png",
+		"title": "Pixora",
+		"companyName": "FrameNest",
+		"id": 10,
+		"description": "Edit photos with filters, retouch tools, and smart enhancement options.",
+		"size": 110.4,
+		"reviews": 4125,
+		"downloads": 890000,
+		"ratings": [
+			{ "name": "1 star", "count": 162 },
+			{ "name": "2 star", "count": 190 },
+			{ "name": "3 star", "count": 364 },
+			{ "name": "4 star", "count": 1402 },
+			{ "name": "5 star", "count": 2007 }
+		]
+	},
+	{
+		"image": "/images/apps/studydeck.png",
+		"title": "StudyDeck",
+		"companyName": "LearnAxis",
+		"id": 11,
+		"description": "Flashcards, revision sessions, and exam preparation tools for students.",
+		"size": 44.2,
+		"reviews": 1548,
+		"downloads": 230000,
+		"ratings": [
+			{ "name": "1 star", "count": 43 },
+			{ "name": "2 star", "count": 61 },
+			{ "name": "3 star", "count": 137 },
+			{ "name": "4 star", "count": 512 },
+			{ "name": "5 star", "count": 795 }
+		]
+	},
+	{
+		"image": "/images/apps/greenleaf.png",
+		"title": "GreenLeaf",
+		"companyName": "EcoByte",
+		"id": 12,
+		"description": "Plant care reminders, watering schedules, and growth tracking.",
+		"size": 37.5,
+		"reviews": 842,
+		"downloads": 76000,
+		"ratings": [
+			{ "name": "1 star", "count": 19 },
+			{ "name": "2 star", "count": 28 },
+			{ "name": "3 star", "count": 71 },
+			{ "name": "4 star", "count": 264 },
+			{ "name": "5 star", "count": 460 }
+		]
+	},
+	{
+		"image": "/images/apps/soundraft.png",
+		"title": "Soundraft",
+		"companyName": "WavePeak",
+		"id": 13,
+		"description": "Stream playlists, discover artists, and enjoy offline listening.",
+		"size": 87.6,
+		"reviews": 3589,
+		"downloads": 760000,
+		"ratings": [
+			{ "name": "1 star", "count": 141 },
+			{ "name": "2 star", "count": 173 },
+			{ "name": "3 star", "count": 319 },
+			{ "name": "4 star", "count": 1180 },
+			{ "name": "5 star", "count": 1776 }
+		]
+	},
+	{
+		"image": "/images/apps/shoplane.png",
+		"title": "ShopLane",
+		"companyName": "CartBridge",
+		"id": 14,
+		"description": "A fast shopping app for deals, saved carts, and order tracking.",
+		"size": 95.8,
+		"reviews": 2897,
+		"downloads": 640000,
+		"ratings": [
+			{ "name": "1 star", "count": 126 },
+			{ "name": "2 star", "count": 149 },
+			{ "name": "3 star", "count": 261 },
+			{ "name": "4 star", "count": 947 },
+			{ "name": "5 star", "count": 1414 }
+		]
+	},
+	{
+		"image": "/images/apps/focusgrid.png",
+		"title": "FocusGrid",
+		"companyName": "SharpMint",
+		"id": 15,
+		"description": "Pomodoro timer, focus analytics, and distraction blocking tools.",
+		"size": 29.9,
+		"reviews": 1106,
+		"downloads": 99000,
+		"ratings": [
+			{ "name": "1 star", "count": 24 },
+			{ "name": "2 star", "count": 31 },
+			{ "name": "3 star", "count": 82 },
+			{ "name": "4 star", "count": 361 },
+			{ "name": "5 star", "count": 608 }
+		]
+	},
+	{
+		"image": "/images/apps/eventora.png",
+		"title": "Eventora",
+		"companyName": "LoopLine",
+		"id": 16,
+		"description": "Manage events, RSVP lists, schedules, and attendee updates.",
+		"size": 61.7,
+		"reviews": 1328,
+		"downloads": 150000,
+		"ratings": [
+			{ "name": "1 star", "count": 36 },
+			{ "name": "2 star", "count": 47 },
+			{ "name": "3 star", "count": 118 },
+			{ "name": "4 star", "count": 433 },
+			{ "name": "5 star", "count": 694 }
+		]
+	},
+	{
+		"image": "/images/apps/safekey.png",
+		"title": "SafeKey",
+		"companyName": "SecureStack",
+		"id": 17,
+		"description": "Password manager with encrypted vaults and secure autofill.",
+		"size": 46.3,
+		"reviews": 1874,
+		"downloads": 260000,
+		"ratings": [
+			{ "name": "1 star", "count": 49 },
+			{ "name": "2 star", "count": 63 },
+			{ "name": "3 star", "count": 145 },
+			{ "name": "4 star", "count": 601 },
+			{ "name": "5 star", "count": 1016 }
+		]
+	},
+	{
+		"image": "/images/apps/readora.png",
+		"title": "Readora",
+		"companyName": "PageBloom",
+		"id": 18,
+		"description": "An ebook reader with bookmarking, notes, and reading goals.",
+		"size": 42.1,
+		"reviews": 965,
+		"downloads": 87000,
+		"ratings": [
+			{ "name": "1 star", "count": 20 },
+			{ "name": "2 star", "count": 33 },
+			{ "name": "3 star", "count": 84 },
+			{ "name": "4 star", "count": 309 },
+			{ "name": "5 star", "count": 519 }
+		]
+	},
+	{
+		"image": "/images/apps/rideloop.png",
+		"title": "RideLoop",
+		"companyName": "TransitWare",
+		"id": 19,
+		"description": "Book rides, estimate fares, and track drivers in real time.",
+		"size": 78.9,
+		"reviews": 3342,
+		"downloads": 720000,
+		"ratings": [
+			{ "name": "1 star", "count": 153 },
+			{ "name": "2 star", "count": 181 },
+			{ "name": "3 star", "count": 308 },
+			{ "name": "4 star", "count": 1072 },
+			{ "name": "5 star", "count": 1628 }
+		]
+	},
+	{
+		"image": "/images/apps/cloudpad.png",
+		"title": "CloudPad",
+		"companyName": "NimbusForge",
+		"id": 20,
+		"description": "Store files, sync documents, and share folders across devices.",
+		"size": 69.5,
+		"reviews": 2240,
+		"downloads": 410000,
+		"ratings": [
+			{ "name": "1 star", "count": 61 },
+			{ "name": "2 star", "count": 79 },
+			{ "name": "3 star", "count": 174 },
+			{ "name": "4 star", "count": 738 },
+			{ "name": "5 star", "count": 1188 }
+		]
+	}
+]
