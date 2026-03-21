@@ -1,11 +1,13 @@
 import { Hero } from "./Hero";
 import { Stats } from "./Stats";
+import { TrendingApps } from "./TrendingApps";
 
 const HomePage = () => {
 	return (
-		<main className="mt-20">
+		<main className="mt-16">
 			<Hero />
 			<Stats />
+			<TrendingApps />
 		</main>
 	);
 };

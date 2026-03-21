@@ -5,7 +5,7 @@ export const Hero = () => {
 	return (
 		<section
 			id="hero"
-			className="px-48 pt-8 flex flex-col items-center text-center"
+			className="px-48 pt-12 flex flex-col items-center text-center"
 		>
 			{/* Tagline */}
 			<h1 className="text-6xl font-bold leading-[1.125] mb-4">

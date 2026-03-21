@@ -28,9 +28,9 @@ export const Stats = () => {
 			className="px-48 py-20 bg-gradient text-white"
 		>
 			{/* Header */}
-			<h1 className="text-6xl font-bold mb-12 text-center">
+			<h2 className="text-5xl font-bold mb-12 text-center">
 				Trusted by Millions, Built for You
-			</h1>
+			</h2>
 			{/* Stats */}
 			<div className="max-w-4xl mx-auto flex justify-between">
 				{stats.map((stat) => (

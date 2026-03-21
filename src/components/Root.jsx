@@ -4,11 +4,11 @@ import { Footer } from "./Footer";
 
 const Root = () => {
 	return (
-		<>
+		<div className="bg-[#f7f7f7]">
 			<Header />
 			<Outlet />
 			<Footer />
-		</>
+		</div>
 	);
 };
 
