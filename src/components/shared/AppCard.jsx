@@ -16,7 +16,7 @@ export const AppCard = ({ app }) => {
 
 	return (
 		<Link to={`/apps/${app.id}`}>
-			<div className="p-5 bg-white shadow-lg shadow-black/5 rounded-xl">
+			<div className="p-5 bg-white shadow-lg shadow-black/5 rounded-xl active:shadow-sm transition-shadow">
 				<div className="flex items-center gap-x-4 mb-6">
 					{/* Icon */}
 					<div>

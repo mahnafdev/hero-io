@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { TbSearch } from "react-icons/tb";
-import { AppCard } from "../shared/AppCard";
+import { AppCard } from "../components/shared/AppCard";
 
 const AppsPage = () => {
 	// States

@@ -4,7 +4,7 @@ export const Stats = () => {
 	const stats = [
 		{
 			label: "Total Downloads",
-			value: 15.8,
+			value: 14.4,
 			suffix: "M",
 			footnote: "16% more than last month",
 		},
