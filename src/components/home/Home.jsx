@@ -4,7 +4,7 @@ import { TrendingApps } from "./TrendingApps";
 
 const HomePage = () => {
 	return (
-		<main className="mt-16">
+		<main className="pt-20">
 			<Hero />
 			<Stats />
 			<TrendingApps />
